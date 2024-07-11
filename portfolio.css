@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background: linear-gradient(to bottom, #cc00ff 17%, #ff0066 71%);
+}
+header{
+    background-color: black;
+    background: linear-gradient(to left, #ff0066 17%, #990099 77%);
+    color: aliceblue;
+    padding: 20px;
+}
+li{
+    display: inline;
+    padding: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: burlywood;
+}
+img{
+    height: 230px;
+    width: 230px;
+    border-radius: 50%;
+}
+#PortFolio{
+    background-color: pink;
+    padding: 10px;
+    background: linear-gradient(to left, #9999ff 17%, #ff66ff 77%);
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
